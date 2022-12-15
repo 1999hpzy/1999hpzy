@@ -66,7 +66,7 @@ Some notes that hopefully will help you.
 
 ## Maintainer
 
-[@hpzy](https://github.com/WengerChan/notes/issues)
+[@hpzy](https://github.com/1999hpzy/1999hpzy.git)
 
 
 <!--
